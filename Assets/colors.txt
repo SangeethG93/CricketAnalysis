@@ -1,0 +1,11 @@
+BG : #F2F0ED
+BGWhite : #FDFDFD
+BGCream : #F7F5F3
+BGCream2 : #EBEAEA
+textRed : #D43232
+TextBlack : #343335
+Text Gray : #A5A0A0
+bar orange : #F28D35
+button grape : #452B4E
+Selection on BG : #F1EDED
+extra Blue:  #37ABCD
