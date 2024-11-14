@@ -9,3 +9,5 @@ bar orange : #F28D35
 button grape : #452B4E
 Selection on BG : #F1EDED
 extra Blue:  #37ABCD
+
+https://medium.muz.li/dashboard-design-inspirations-in-2024-56d7d71f0f9e
